@@ -1,0 +1,29 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.div2 {
+	float: left;
+	width: 30%;
+	margin-left: 2rem;
+	border-style: solid;
+  	border-width: medium;
+	background-color: #A9A9A9;
+}
+
+
+.product{
+	padding: 250px 10px 20px;
+}
+
+.div1{
+	position: absolute;
+	top: 20%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+}
+
+li a:hover {
+  background-color: #000000;
+}
